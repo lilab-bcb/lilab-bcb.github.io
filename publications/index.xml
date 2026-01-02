@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications |</title><link>https://lilab-bcb.github.io/publications/</link><atom:link href="https://lilab-bcb.github.io/publications/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://lilab-bcb.github.io/media/logo.svg</url><title>Publications</title><link>https://lilab-bcb.github.io/publications/</link></image><item><title>Inherited myeloproliferative neoplasm risk affects haematopoietic stem cells</title><link>https://lilab-bcb.github.io/publications/bao-2020/</link><pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/bao-2020/</guid><description/></item><item><title>Cumulus provides cloud-based data analysis for large-scale single-cell and single-nucleus RNA-seq</title><link>https://lilab-bcb.github.io/publications/li-2020/</link><pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/li-2020/</guid><description/></item><item><title>A Single-Cell and Single-Nucleus RNA-Seq Toolbox for Fresh and Frozen Human Tumors</title><link>https://lilab-bcb.github.io/publications/slyper-2020/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/slyper-2020/</guid><description/></item><item><title>Thousands of Novel Unannotated Proteins Expand the MHC I Immunopeptidome in Cancer</title><link>https://lilab-bcb.github.io/publications/ouspenskaia-2020/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/ouspenskaia-2020/</guid><description/></item><item><title>Linking Indirect Effects of Cytomegalovirus in Transplantation to Modulation of Monocyte Innate Immune Function</title><link>https://lilab-bcb.github.io/publications/sen-2020/</link><pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/sen-2020/</guid><description/></item><item><title>Integrated scRNA-Seq Identifies Human Postnatal Thymus Seeding Progenitors and Regulatory Dynamics of Differentiating Immature Thymocytes</title><link>https://lilab-bcb.github.io/publications/lavaert-2020/</link><pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/lavaert-2020/</guid><description/></item><item><title>Accuracy Assessment of Fusion Transcript Detection via Read-Mapping and De Novo Fusion Transcript Assembly-based Methods</title><link>https://lilab-bcb.github.io/publications/haas-2019/</link><pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/haas-2019/</guid><description/></item><item><title>Decoding Human Fetal Liver Haematopoiesis</title><link>https://lilab-bcb.github.io/publications/popescu-2019/</link><pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/popescu-2019/</guid><description/></item><item><title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title><link>https://lilab-bcb.github.io/publications/gaublomme-2019/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/gaublomme-2019/</guid><description/></item><item><title>An example preprint / working paper</title><link>https://lilab-bcb.github.io/publications/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/preprint/</guid><description>&lt;p&gt;This work is driven by the results in my
+on LLMs.&lt;/p&gt;
+&lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500"
+data-callout="note"
+data-callout-metadata=""&gt;
+&lt;span class="callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300"&gt;
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;div class="callout-content dark:text-neutral-300"&gt;
+&lt;div class="callout-title font-semibold mb-1"&gt;Note&lt;/div&gt;
+&lt;div class="callout-body"&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including
+.&lt;/p&gt;</description></item><item><title>PROBer Provides a General Toolkit for Analyzing Sequencing-Based Toeprinting Assays</title><link>https://lilab-bcb.github.io/publications/li-2017/</link><pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/li-2017/</guid><description/></item><item><title>STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq</title><link>https://lilab-bcb.github.io/publications/haas-2017/</link><pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/haas-2017/</guid><description/></item><item><title>Metrics for Rapid Quality Control in RNA Structure Probing Experiments</title><link>https://lilab-bcb.github.io/publications/choudhary-2016/</link><pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/choudhary-2016/</guid><description/></item><item><title>Perm-seq: Mapping Protein-DNA Interactions in Segmental Duplication and Highly Repetitive Regions of Genomes with Prior-Enhanced Read Mapping</title><link>https://lilab-bcb.github.io/publications/zeng-2015/</link><pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/zeng-2015/</guid><description/></item><item><title>An example journal article</title><link>https://lilab-bcb.github.io/publications/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/journal-article/</guid><description>
+&lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500"
+data-callout="note"
+data-callout-metadata=""&gt;
+&lt;span class="callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300"&gt;
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;div class="callout-content dark:text-neutral-300"&gt;
+&lt;div class="callout-title font-semibold mb-1"&gt;Note&lt;/div&gt;
+&lt;div class="callout-body"&gt;&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500"
+data-callout="note"
+data-callout-metadata=""&gt;
+&lt;span class="callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300"&gt;
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;div class="callout-content dark:text-neutral-300"&gt;
+&lt;div class="callout-title font-semibold mb-1"&gt;Note&lt;/div&gt;
+&lt;div class="callout-body"&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including
+.&lt;/p&gt;</description></item><item><title>Evaluation of de novo Transcriptome Assemblies from RNA-Seq Data</title><link>https://lilab-bcb.github.io/publications/li-2014/</link><pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/li-2014/</guid><description/></item><item><title>De novo Transcript Sequence Reconstruction from RNA-seq using the Trinity Platform for Reference Generation and Analysis</title><link>https://lilab-bcb.github.io/publications/haas-2013/</link><pubDate>Thu, 11 Jul 2013 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/haas-2013/</guid><description/></item><item><title>An example conference paper</title><link>https://lilab-bcb.github.io/publications/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/conference-paper/</guid><description>
+&lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500"
+data-callout="note"
+data-callout-metadata=""&gt;
+&lt;span class="callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300"&gt;
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;div class="callout-content dark:text-neutral-300"&gt;
+&lt;div class="callout-title font-semibold mb-1"&gt;Note&lt;/div&gt;
+&lt;div class="callout-body"&gt;&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500"
+data-callout="note"
+data-callout-metadata=""&gt;
+&lt;span class="callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300"&gt;
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;div class="callout-content dark:text-neutral-300"&gt;
+&lt;div class="callout-title font-semibold mb-1"&gt;Note&lt;/div&gt;
+&lt;div class="callout-body"&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including
+.&lt;/p&gt;</description></item><item><title>RSEM: Accurate Transcript Quantification from RNA-Seq Data with or without a Reference Genome</title><link>https://lilab-bcb.github.io/publications/li-2011/</link><pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/li-2011/</guid><description/></item><item><title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title><link>https://lilab-bcb.github.io/publications/chung-2011/</link><pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/chung-2011/</guid><description/></item><item><title>RNA-Seq Gene Expression Estimation with Read Mapping Uncertainty</title><link>https://lilab-bcb.github.io/publications/li-2010/</link><pubDate>Mon, 15 Feb 2010 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/publications/li-2010/</guid><description/></item></channel></rss>
