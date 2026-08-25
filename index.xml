@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://lilab-bcb.github.io/</link><atom:link href="https://lilab-bcb.github.io/index.xml" rel="self" type="application/rss+xml"/><description/><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://lilab-bcb.github.io/media/logo.svg</url><title/><link>https://lilab-bcb.github.io/</link></image><item><title>Cumulus</title><link>https://lilab-bcb.github.io/software/cumulus/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/cumulus/</guid><description>&lt;p&gt;Cumulus is a series of open-source cloud-based single-cell genomics data analysis workflows written in WDL language. They use Cloud Computing to achieve scalability on large-scale data, provide highly efficient computation, and establish a comprehensive support on cutting-edge technologies and omics.&lt;/p&gt;</description></item><item><title>Getting Started</title><link>https://lilab-bcb.github.io/courses/hugo-blox/getting-started/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/courses/hugo-blox/getting-started/</guid><description>&lt;h2 id="quick-start-from-template"&gt;Quick Start from Template&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://lilab-bcb.github.io/</link><atom:link href="https://lilab-bcb.github.io/index.xml" rel="self" type="application/rss+xml"/><description/><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://lilab-bcb.github.io/media/logo.svg</url><title/><link>https://lilab-bcb.github.io/</link></image><item><title>Scallops</title><link>https://lilab-bcb.github.io/software/scallops/</link><pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/scallops/</guid><description>&lt;style&gt;
+.featured-image-wrapper {
+max-width: 250px !important;
+max-height: 270px !important;
+margin-left: auto;
+margin-right: auto;
+}
+&lt;/style&gt;
+&lt;p&gt;SCALLOPS (Scalable Library for Optical Pooled Screens) is a comprehensive Python package designed to streamline and scale the analysis of Optical Pooled Screens (OPS) for biological data.&lt;/p&gt;</description></item><item><title>Getting Started</title><link>https://lilab-bcb.github.io/courses/hugo-blox/getting-started/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/courses/hugo-blox/getting-started/</guid><description>&lt;h2 id="quick-start-from-template"&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class="hb-steps"&gt;
 &lt;h3 id="create-a-site"&gt;Create a site&lt;/h3&gt;
 &lt;p&gt;
@@ -107,7 +115,15 @@ class="hb-card group"href="../guide/formatting" &gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;My Page&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;toc&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nn"&gt;---&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Harmony-Pytorch</title><link>https://lilab-bcb.github.io/software/harmony-pytorch/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/harmony-pytorch/</guid><description>&lt;p&gt;Harmony-PyTorch is an efficient PyTorch implementation of Harmony algorithm, used for data integration and batch correction.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Cumulus</title><link>https://lilab-bcb.github.io/software/cumulus/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/cumulus/</guid><description>&lt;style&gt;
+.featured-image-wrapper {
+max-width: 250px !important;
+max-height: 270px !important;
+margin-left: auto;
+margin-right: auto;
+}
+&lt;/style&gt;
+&lt;p&gt;Cumulus is a series of open-source cloud-based single-cell genomics data analysis workflows written in WDL language. They use Cloud Computing to achieve scalability on large-scale data, provide highly efficient computation, and establish a comprehensive support on cutting-edge technologies and omics.&lt;/p&gt;</description></item><item><title>Harmony-Pytorch</title><link>https://lilab-bcb.github.io/software/harmony-pytorch/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/harmony-pytorch/</guid><description>&lt;p&gt;Harmony-PyTorch is an efficient PyTorch implementation of Harmony algorithm, used for data integration and batch correction.&lt;/p&gt;
 &lt;p&gt;It has been adopted by
 (a GPU-accelerated single-cell analysis python package designed specific for NVIDIA devices; part of
 ) for its implementation on Harmony batch correction method. See

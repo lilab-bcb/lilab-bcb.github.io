@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optical Pool Screens |</title><link>https://lilab-bcb.github.io/tags/optical-pool-screens/</link><atom:link href="https://lilab-bcb.github.io/tags/optical-pool-screens/index.xml" rel="self" type="application/rss+xml"/><description>Optical Pool Screens</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://lilab-bcb.github.io/media/logo.svg</url><title>Optical Pool Screens</title><link>https://lilab-bcb.github.io/tags/optical-pool-screens/</link></image><item><title>Scallops</title><link>https://lilab-bcb.github.io/software/scallops/</link><pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate><guid>https://lilab-bcb.github.io/software/scallops/</guid><description>&lt;style&gt;
+.featured-image-wrapper {
+max-width: 250px !important;
+max-height: 270px !important;
+margin-left: auto;
+margin-right: auto;
+}
+&lt;/style&gt;
+&lt;p&gt;SCALLOPS (Scalable Library for Optical Pooled Screens) is a comprehensive Python package designed to streamline and scale the analysis of Optical Pooled Screens (OPS) for biological data.&lt;/p&gt;</description></item></channel></rss>
